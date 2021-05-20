@@ -21,7 +21,7 @@ export default class CreateOrdersProducts1621464597820
             scale: 2,
           },
           {
-            name: 'amount',
+            name: 'quantity',
             type: 'int',
           },
           {
